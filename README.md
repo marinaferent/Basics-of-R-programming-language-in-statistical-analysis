@@ -3,7 +3,7 @@ number of UBB FSEGA graduates in collaboration with Multicultural Business Insti
 
 ## Course aims
 
-- Differentiating between different R objects (for example, vector,
+- Differentiating between different R objects (vector,
   matrix, data frame, list) – generating the objects, properties,
   operations
 - Visualizing data using base R graphics – bar charts, pie charts,
