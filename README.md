@@ -21,7 +21,7 @@ Also, they will be able to perform a statistical analysis in R
 (visualizing, computing statistical measures, performing cross tab
 analysis, and linear regressions).
 
-**Prerequisites:** Base knowledge of descriptive statistics and
+**Prerequisites:** Basic knowledge of descriptive statistics and
 introductory econometrics terms (statistical population, sample size,
 statistical variables, mean, median, mode, correlation, linear
 regression).
