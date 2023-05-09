@@ -1,9 +1,5 @@
-README
-================
-Marina FERENT
-2023-05-08
-
-# Basics of R programming language in statistical analysis
+This is a repository for the course *Basics of R programming language in statistical analysis*. In 2020 and 2021, I instructed the course free of charge to a selected
+number of UBB FSEGA graduates in collaboration with Multicultural Business Institute. The materials in this repository belong to the 2021 edition.
 
 ## Course aims
 
@@ -146,11 +142,6 @@ these exercises included short examples of:
 - Data pre-processing (normalization)
 
 #### Acknowledgements
-
-In 2020 and 2021, I instructed the course free of charge to a selected
-number of UBB FSEGA graduates in collaboration with Multicultural
-Business Institute. The materials in the GitHub repository belong to the
-2021 edition.
 
 ##### Datasets
 
