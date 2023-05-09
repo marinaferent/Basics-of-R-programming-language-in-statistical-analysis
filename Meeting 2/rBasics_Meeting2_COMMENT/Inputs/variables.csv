@@ -1,0 +1,21 @@
+code_name,full_name,nameIndicators,internalCode
+LFSA_EWPEVE,"Employed persons working in the evenings as a percentage of the total employment, by sex, age and professional status (%)",Share of workers doing evening work ,
+LFSA_EWPSAT,"Employed persons working on Saturdays as a percentage of the total employment, by sex, age and professional status (%)",Share of workers doing saturday work ,saturdayWork
+TRNG_CVT_01S,Enterprises providing training by type of training and size class - % of all enterprises,Percentage of enterprises providing CVT courses ,firmsCVT
+TRNG_CVT_12S,Participants in CVT courses by sex and size class - % of persons employed in all enterprises,Percentage of employees (all enterprises) participating in CVT courses  - Male ,partCVTm
+TRNG_CVT_12S,Participants in CVT courses by sex and size class - % of persons employed in all enterprises,Percentage of employees (all enterprises) participating in CVT courses  - Female,partCVTf
+TRNG_CVT_23S,Hours spent in CVT courses by size class - hours per person employed in all enterprises,Hours in CVT courses per employee (all enterprises) ,hoursCVT
+TRNG_CVT_16S,Cost of CVT courses by type and size class - % of total labour cost of all enterprises,Cost of CVT courses as % of total labour cost (all enterprises) ,costCVTlabour
+TRNG_CVT_17S,Cost of CVT courses by type and size class - cost per person employed in all enterprises,Cost of CVT courses per employee (all enterprises) - Direct Cost ,costCVTdirect
+TRNG_CVT_17S,Cost of CVT courses by type and size class - cost per person employed in all enterprises,Cost of CVT courses per employee (all enterprises) - Labour Cost of Participants ,costCVTpart
+TRNG_LFSE_01,Participation rate in education and training (last 4 weeks) by sex and age,Participation of the adult population aged 25-64 participating in education and training (over the four weeks prior to the survey); Male. ,partTraining_M
+TRNG_LFSE_01,Participation rate in education and training (last 4 weeks) by sex and age,Participation of the adult population aged 25-64 participating in education and training (over the four weeks prior to the survey); Female. ,partTraining_F
+LFSA_ETGAR,"Temporary employees by sex, age and main reason",Total employees in fixed-term only contracts as % of persons in employment,fixedTerm
+LFSA_ETGAR,"Temporary employees by sex, age and main reason",Share of employees with fixed-term contracts because they could not find a permanent job ,fixedTermComp
+LFSA_EPPGA,"Part-time employment as percentage of the total employment, by sex and age (%)",Share of employees in part-time,partTime
+LFSA_EETPGAR,"Employees who could not find a permanent or full-time job, by sex and age",Share of employees in part-time because they could not find full-time job ,partTimeComp
+LFSA_EWPNIG,"Employed persons working at nights as a percentage of the total employment, by sex, age and professional status (%)",Share of workers doing night work ,nightWork
+LFSA_EWPSUN,"Employed persons working on Sundays as a percentage of the total employment, by sex, age and professional status (%)",Share of workers doing Sunday work ,sundayWork
+LFSA_EWPSHI,"Employees working shifts as a percentage of the total of employees, by sex and age (%)",Share of workers doing shift work,shiftWork
+LFSA_IGAR,"Inactive population not seeking employment by sex, age and main reason",Inactivity due to lack of suitable care services for children and other dependants,inactivityChild
+LFSA_EPGAR,Main reason for part-time employment - Distributions by sex and age (%),Part-time work due to lack of suitable care services for children and other dependants,partTimeChild
